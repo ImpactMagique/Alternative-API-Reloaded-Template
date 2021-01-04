@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/json-simple/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/gson/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/commons-lang3-3.11/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/commons-io-2.8.0/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/MinecraftServerPing-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/Alternative Api Reloaded/export/Alternative Api Reloaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jambonbeurre/Desktop/JavaWS/LauncherLearn/lib/flowupdater-1.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/flowmultitools-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
